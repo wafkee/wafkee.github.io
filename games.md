@@ -1,10 +1,10 @@
 #The main reason you are here
 
-### [Games](/minecraft.htmt)
+### [Games](/minecraft.html)
 
 
 
-### [Issues](https://sites.google.com/site/subwaysurfersunblocked/)
+### [Subway Surfera](https://sites.google.com/site/subwaysurfersunblocked/)
 
-### [Super Mario 64](sevenworksdev.github.io/SM64JS/start.html)
+### [Super Mario 64](https://sevenworksdev.github.io/SM64JS/start.html)
 
