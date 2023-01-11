@@ -1,9 +1,10 @@
 hi welcome
 
-### [Games](/games)
+### [Games](/games.md)
 
 
 
-### [Issues](/Bonus)
 
-### [Hi hi hi](/404)
+##more to be added soon
+
+🗿👍🔥
