@@ -1,5 +1,5 @@
-import Oscillator from './src/nes/browser/oscillator.js';
-import Noise from './src/nes/browser/noise.js';
+import Oscillator from './mario/src/nes/browser/oscillator.js';
+import Noise from './mario/src/nes/browser/noise.js';
 
 let buf = null
 
@@ -64,7 +64,7 @@ const startArrayBuf = (arrayBuf) => {
   run(size, buf.byteOffset);
 };
 
-export const start = async (rom = './roms/falling.nes') => {
+export const start = async (rom = './mario/roms/nestest.nes') => {
   const res = await fetch(rom);
   const arrayBuf = await res.arrayBuffer();
   startArrayBuf(arrayBuf);
