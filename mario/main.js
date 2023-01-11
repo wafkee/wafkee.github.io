@@ -1,5 +1,5 @@
-import Oscillator from './mario/src/nes/browser/oscillator.js';
-import Noise from './mario/src/nes/browser/noise.js';
+import Oscillator from '/oscillator.js';
+import Noise from '/noise.js';
 
 let buf = null
 
