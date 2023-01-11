@@ -65,13 +65,13 @@
       <li>→ →</li>
     </ul>
   </div>
-  <script type="module" src="./src/nes/browser/pulse.js"></script>
-  <script type="module" src="./src/nes/browser/oscillator.js"></script>
-  <script type="module" src="./src/nes/browser/noise.js"></script>
-  <script type="module" src="./main.js"></script>
-  <script type="module" src="./init.js"></script>
+  <script type="module" src="./mario/src/nes/browser/pulse.js"></script>
+  <script type="module" src="./mario/src/nes/browser/oscillator.js"></script>
+  <script type="module" src="./mario/src/nes/browser/noise.js"></script>
+  <script type="module" src="./mario/main.js"></script>
+  <script type="module" src="./mario/init.js"></script>
   <script type="module">
-    import {start, startFile} from './main.js';
+    import {start, startFile} from './mario/main.js';
     document.querySelector('select')
       .addEventListener('change', (e) => {
         start(`./roms/${e.target.value}.nes`);
