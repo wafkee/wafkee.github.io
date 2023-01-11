@@ -6,7 +6,7 @@
 
 ### [Subway Surfers](https://sites.google.com/site/subwaysurfersunblocked/)
 
-### [Super Mario 64](https://sevenworksdev.github.io/SM64JS/start.html)
+### [Super Mario 64](https://sevenworksdev.github.io/SM64-JS/start.html)
 
 ### [Sonic1](https://grubbyplaya.github.io/Sonic-1-WASM/)
 ### [Sonic2](https://grubbyplaya.github.io/Sonic-2-WASM/)
