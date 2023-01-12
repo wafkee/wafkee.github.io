@@ -64,7 +64,7 @@ const startArrayBuf = (arrayBuf) => {
   run(size, buf.byteOffset);
 };
 
-export const start = async (rom = './roms/mario1.nes') => {
+export const start = async (rom = './roms/nestest.nes') => {
   const res = await fetch(rom);
   const arrayBuf = await res.arrayBuffer();
   startArrayBuf(arrayBuf);
