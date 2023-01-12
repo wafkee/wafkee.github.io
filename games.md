@@ -11,4 +11,4 @@
 ### [Sonic1](https://grubbyplaya.github.io/Sonic-1-WASM/)
 ### [Sonic2](https://grubbyplaya.github.io/Sonic-2-WASM/)
 ### [PacMan](https://www.echalk.co.uk/amusements/Games/Pacman/pacman.html)
-### [Super Mario Collection ](/sm)
+### [Super Mario 1 ](/sm)
