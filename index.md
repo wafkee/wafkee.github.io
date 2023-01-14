@@ -1,9 +1,8 @@
 hi welcome
 
-### [Games](/games.md)
+### [games](/games.md)
 
-### [Tests] (/Tests.md)
-
+### [tests](/Tests.md)
 
 ### and to everyone asking me if i made this, yes i made it
 
