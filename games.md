@@ -12,3 +12,4 @@
 ### [Sonic2](https://grubbyplaya.github.io/Sonic-2-WASM/)
 ### [PacMan](https://www.echalk.co.uk/amusements/Games/Pacman/pacman.html)
 ### [Super Mario 1 ](/sm)
+### [Game Boy Advance games](/gba)
