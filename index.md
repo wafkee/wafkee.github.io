@@ -1,9 +1,11 @@
-hi welcome
+Website has been updated!, Woo hoo
 
-### [games](/games.md)
+### [Games](/games.md)
 
-### [tests](/Tests.md)
 
-### and to everyone asking me if i made this, yes i made it
+### Im starting a forum in the next week
+
+Made by santiago c.
+
 
 
