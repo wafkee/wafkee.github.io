@@ -3,9 +3,8 @@ Website has been updated!, Woo hoo
 ### [Games](/games.md)
 
 
-### Im starting a forum in the next week
+### Website will be moved soon.
 
-Made by santiago c.
 
 
 
