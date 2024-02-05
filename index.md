@@ -1,10 +1,3 @@
-Website has been updated!, Woo hoo
-
-### [Games](/games.md)
-
-
-### Website will be moved soon.
-
-
-
+wafkee.github.io has been discontinued, please use the new version
+### [new site](http://fsh.serv00.net)
 
