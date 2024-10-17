@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="10"
+   height="12"
+   viewBox="0 0 2.6458333 3.1750001"
+   version="1.1"
+   id="svg3751"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="jerrycan.svg"
+   inkscape:export-filename="/home/willem/Documents/Code/hill/images/jerrycan.png"
+   inkscape:export-xdpi="1920"
+   inkscape:export-ydpi="1920">
+  <defs
+     id="defs3745">
+    <symbol
+       id="GasStation">
+      <title
+         id="title6503">Gas Station</title>
+      <path
+         inkscape:connector-curvature="0"
+         d="M 5.0270833,16.66875 V 3.7041667 C 5.0270833,3.175 5.55625,2.6458333 6.0854167,2.6458333 h 3.7041666 c 0.5291667,0 1.0583337,0.5291667 1.0583337,1.0583334 v 4.7625 h 1.058333 c 0.661458,0 1.322917,0.6614583 1.322917,1.3229166 v 5.4239587 c 0,0.396875 0.264583,0.661458 0.661458,0.661458 0.396875,0 0.859896,-0.264583 0.859896,-0.79375 l -0.529167,-3.241146 -0.198437,-0.992187 0.132291,-3.2411462 h -0.330729 c -0.595312,0 -1.058333,-0.5622396 -1.058333,-1.0583333 l 0.06615,-1.6536458 -0.926042,-1.0252605 0.529167,-0.4299479 1.918229,1.9182292 c 0.330729,0.3307292 0.463021,0.6614583 0.463021,1.1244792 v 4.3656253 l 0.132291,0.926041 0.595313,3.439584 c 0,0.859895 -0.926042,1.455208 -1.653646,1.455208 -0.661458,0 -1.455208,-0.661458 -1.455208,-1.455208 V 9.7895833 C 12.435417,9.525 12.170833,9.2604167 11.90625,9.2604167 H 10.847917 V 16.66875 H 5.0270833 M 14.022917,7.0776042 V 6.35 c 0,-0.2645833 -0.06615,-0.4299479 -0.264584,-0.4630208 -0.06615,-0.066146 -0.330729,-0.066146 -0.330729,-0.066146 v 0.79375 c 0,0.2645834 0.132292,0.3307292 0.595313,0.463021 z m -3.96875,-3.2411459 c 0,-0.2645833 -0.132292,-0.396875 -0.3638024,-0.396875 H 6.2177083 c -0.2645833,0 -0.396875,0.1322917 -0.396875,0.396875 v 2.778125 c 0,0.2645834 0.1322917,0.396875 0.396875,0.396875 h 3.4395834 c 0.2645833,0 0.3968753,-0.1322916 0.3968753,-0.396875 z"
+         style="stroke:none;stroke-width:0.26458332"
+         id="path6505" />
+    </symbol>
+    <symbol
+       id="FourWheelDriveRoad">
+      <title
+         id="title6479">Four Wheel Drive Road</title>
+      <path
+         inkscape:connector-curvature="0"
+         d="M 17.065625,9.9880208 V 8.0697917 c 0,-0.5291667 -0.396875,-0.6614584 -0.661458,-0.6614584 H 12.633854 L 11.244792,5.0932292 h -0.79375 l 1.389062,2.3151041 -1.058333,1.7859375 H 8.334375 C 7.540625,7.540625 5.8208333,7.6067708 5.8208333,7.6067708 H 1.3229167 V 11.641667 H 1.984375 a 2.8045833,2.8045833 0 0 1 5.55625,0 h 3.96875 a 2.8045833,2.8045833 0 0 1 5.55625,0 h 0.264583 c 0.264584,0 0.463021,-0.198438 0.463021,-0.463021 V 9.9880208 Z"
+         style="stroke:none;stroke-width:0.26458332"
+         id="path6481" />
+      <g
+         style="fill:none;stroke-width:4"
+         id="g6487">
+        <circle
+           style="stroke-width:1.05833328"
+           cx="4.7624998"
+           cy="12.005468"
+           r="1.3229166"
+           id="circle6483" />
+        <circle
+           style="stroke-width:1.05833328"
+           cx="14.2875"
+           cy="12.005468"
+           r="1.3229166"
+           id="circle6485" />
+      </g>
+    </symbol>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="44.8"
+     inkscape:cx="4.9374819"
+     inkscape:cy="5.4644954"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="980"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:object-paths="true"
+     units="px"
+     inkscape:snap-page="true"
+     inkscape:snap-global="true" />
+  <metadata
+     id="metadata3748">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Laag 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-293.82498)">
+    <path
+       style="fill:#000000;stroke:none;stroke-width:0.00977186px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0.2149435,294.84982 0,294.61836 0.5758188,294.19573 0.80428908,294.425"
+       id="path3773"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="path3777"
+       style="fill:#000000;stroke:none;stroke-width:0.00788262px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2.2950475,294.38332 1.15e-5,-0.51696 -1.1477208,8e-4 0.00105,0.51125 0.1945529,8.6e-4 4.71e-5,-0.31135 0.7438734,-4e-4 0.00101,0.3142 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:#ff0000;stroke:none;stroke-width:0.0068742px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0,297.00064 v -2.03556 l 0.93425076,-0.68682 1.71158254,0.006 -0.00557,2.72224 z"
+       id="path3771"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+  </g>
+</svg>
