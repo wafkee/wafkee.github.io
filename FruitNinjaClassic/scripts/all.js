@@ -4826,7 +4826,7 @@ define("scripts/object/score.js", function(exports){
 	exports.set = function(){
 	    image = layer.createImage( "default", "images/score.png", imageSx, 8, 29, 31 ).hide();
 	    text1 = layer.createText( "default", "0", text1Sx, 24, "90-#fc7f0c-#ffec53", "30px" ).hide();
-	    text2 = layer.createText( "default", " ", text2Sx, 48, "#af7c05", "14px" ).hide();
+	    text2 = layer.createText( "default", "BEST 999", text2Sx, 48, "#af7c05", "14px" ).hide();
 	};
 	
 	exports.show = function( start ){
@@ -4851,7 +4851,7 @@ define("scripts/object/score.js", function(exports){
 	    setTimeout(function(){
 	        image.scale( 1, 1 );
 	    }, 60);
-	    message.postMessage( number, "score.change" );
+	    // message.postMessage( number, "score.change" );
 	};
 	
 	// 显示/隐藏 相关
