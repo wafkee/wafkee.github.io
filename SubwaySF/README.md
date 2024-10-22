@@ -1,2 +1,0 @@
-# Subway-Surfers
-The Game
