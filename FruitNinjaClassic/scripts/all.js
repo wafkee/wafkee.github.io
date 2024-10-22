@@ -407,12 +407,13 @@ define("scripts/main.js", function(exports){
 	
 	    [ timeline, sence, control ].invoke( "init" );
 	
-	    log( "code-projects.org" );
-	    log( "code-projects.org" );
-		log( "code-projects.org" );
-	    log( "code-projects.org" );
-	    log( "code-projects.org" );
-		log( "code-projects.org" );
+	    log( "Fruit Ninja Classic, by code-projects.org" );
+		log( "Fruit Ninja Classic, by code-projects.org" );
+		log( "Fruit Ninja Classic, by code-projects.org" );
+		log( "Fruit Ninja Classic, by code-projects.org" );
+		log( "Fruit Ninja Classic, by code-projects.org" );
+		log( "Fruit Ninja Classic, by code-projects.org" );
+	   
 	    log.clear();
 	
 	    setTimeout( sence.switchSence.saturate( sence, "home-menu" ), 3000 );
